@@ -7,3 +7,4 @@ Today I plan to:
 -Practice Git and GitHub commands such as clone,add,commit,andpush.
 -Solve at least 2 programming problems on Sliding Window.
 -Spend 1 hour learning Python.
+## Review
