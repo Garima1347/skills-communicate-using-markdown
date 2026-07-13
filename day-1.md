@@ -1,6 +1,9 @@
 # Daily Learning
 
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="200" align="right">
+
+
 Today I plan to:
 
 - [ ] Complete my Linux basics revision(GUI,CLI,directories,files,SSH).
